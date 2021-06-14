@@ -1,2 +1,2 @@
-# control computer only via usb (without network)
+# Control computer only via usb (without network)
 
