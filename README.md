@@ -1,2 +1,2 @@
-# ccvu
-Fully control a computer via usb (without network)
+# control computer only via usb (without network)
+
